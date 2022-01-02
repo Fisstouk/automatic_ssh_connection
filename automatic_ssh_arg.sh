@@ -1,6 +1,5 @@
 #!/bin/bash
 #
-#prenom:lyronn
 #
 #version:1.0
 
